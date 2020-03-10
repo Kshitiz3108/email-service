@@ -12,7 +12,7 @@ import javax.persistence.Table;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 
 @Entity
-@Table(name="User")
+@Table(name="Users")
 @EnableAutoConfiguration
 public class User {
 	
